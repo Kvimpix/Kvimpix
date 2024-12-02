@@ -1,0 +1,3 @@
+-  Hi, I’m Kvimpix
+-  I’m currently learning Python
+-  I cant say nothing more about me
